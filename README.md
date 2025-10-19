@@ -5,3 +5,5 @@ In this project, I worked with an artificially generated dataset, consisting of 
 variables and two output variables called class and output. All input variables were standard-scaled
 real numbers. My task was to build ML models predicting the output variables based on the input
 variables and analyze the dataset, created models and the nature of the found dependencies.
+
+Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib.
